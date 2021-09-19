@@ -1,0 +1,11 @@
+{
+  "name": "aplicacaonodeaula",
+  "version": "1.0.0",
+  "description": "Git 3 Parte 2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PedroSilvaB",
+  "license": "ISC"
+}
